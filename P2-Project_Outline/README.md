@@ -7,12 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My app with provide users with a check-in for church members, give them a place to log their tithes, and make annoucements to othher members at the Annual Conference.  This App will be usuaful because it will illiminate the physical check-in process which usually take 1 to 2 hours because each Pastor normally stands, introduces their memebers and reads a scripture and/or annoucements.  This idea came from my mother who is a Pastor and has to attend these Annual Conferences.
 ### Features
-Include Features here
+User log-in
+Person Search
+Tithe log
+Announcement blog
 ### Technologies
-Include Technologies here
+Java
+Javascript
+Springboot
+Hybernate
+HTML
+CSS
+MySQL
+Thymeleaf
 ### What I'll Have to Learn
-Include what you will need to learn here
+I definitely plan on learning Javascript and how to incorporate it into my project.  I will also learn to put more style and flare into the pages.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/cRpz3eSX
